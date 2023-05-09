@@ -1,0 +1,15 @@
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe.config
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\bin\Debug\Parcial_2.pdb
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\bin\Debug\Parcial_2.xml
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.vbproj.AssemblyReference.cache
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.vbproj.SuggestedBindingRedirects.cache
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Form1.resources
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Resources.resources
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.vbproj.GenerateResource.cache
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.vbproj.CoreCompileInputs.cache
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.exe
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.xml
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.pdb
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Form2.resources
+G:\DS VIII\MichaelJordan_P2\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Form3.resources
