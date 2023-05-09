@@ -1,0 +1,14 @@
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\bin\Debug\AsignacionNo8.exe.config
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\bin\Debug\AsignacionNo8.exe
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\bin\Debug\AsignacionNo8.pdb
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\bin\Debug\AsignacionNo8.xml
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.vbproj.AssemblyReference.cache
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.vbproj.SuggestedBindingRedirects.cache
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.Form1.resources
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.Resources.resources
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.vbproj.GenerateResource.cache
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.vbproj.CoreCompileInputs.cache
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.exe
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.xml
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.pdb
+G:\DS VIII\MichaelJordan_A8\AsignacionNo8\AsignacionNo8\obj\Debug\AsignacionNo8.Form2.resources
