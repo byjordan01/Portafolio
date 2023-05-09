@@ -1,0 +1,13 @@
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\bin\Debug\ProyectoNo1.exe.config
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\bin\Debug\ProyectoNo1.exe
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\bin\Debug\ProyectoNo1.pdb
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\bin\Debug\ProyectoNo1.xml
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.vbproj.AssemblyReference.cache
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.vbproj.SuggestedBindingRedirects.cache
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.Form1.resources
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.Resources.resources
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.vbproj.GenerateResource.cache
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.vbproj.CoreCompileInputs.cache
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.exe
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.xml
+G:\DS VIII\MichaelJordan\ProyectoNo1\ProyectoNo1\obj\Debug\ProyectoNo1.pdb
